@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/MenuApp/app/src/main/res/layout/activity_congelador.xml" value="0.2545289855072464" />
         <entry key="..\:/Users/jairo/AndroidStudioProjects/MenuApp/app/src/main/res/layout/activity_main.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/MenuApp/app/src/main/res/layout/fragment_mostrar_menu.xml" value="0.264" />
+        <entry key="..\:/Users/jairo/AndroidStudioProjects/MenuApp/app/src/main/res/layout/fragment_seleccion_semana.xml" value="0.2545289855072464" />
       </map>
     </option>
   </component>

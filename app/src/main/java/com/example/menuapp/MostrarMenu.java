@@ -8,27 +8,26 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class SeleccionSemana extends Fragment {
+public class MostrarMenu extends Fragment {
 
-    public SeleccionSemana() {
+    public MostrarMenu() {
         // Required empty public constructor
     }
 
-    public static SeleccionSemana newInstance(String param1, String param2) {
-        SeleccionSemana fragmentSeleccionSemana = new SeleccionSemana();
-        return fragmentSeleccionSemana;
+    public static MostrarMenu newInstance(String param1, String param2) {
+        MostrarMenu fragmentMostrarMenu = new MostrarMenu();
+        return fragmentMostrarMenu;
     }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_seleccion_semana, container, false);
+        return inflater.inflate(R.layout.fragment_mostrar_menu, container, false);
     }
 }

@@ -2,4 +2,15 @@
     <string name="app_name">MenuApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="speakeable">Desplegable comida</string>
+    <string name="comida">Boton Listas</string>
+    <string name="selector5dias">Lunes - Viernes</string>
+    <string name="selector7dias">Sábado - Domingo</string>
+    <string name="textLunes">Lunes</string>
+    <string name="textMartes">Martes</string>
+    <string name="textMiercoles">Miércoles</string>
+    <string name="textJueves">Jueves</string>
+    <string name="textViernes">Viernes</string>
+    <string name="textSabado">Sábado</string>
+    <string name="textDomingo">Domingo</string>
 </resources>
